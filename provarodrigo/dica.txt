@@ -1,0 +1,8 @@
+ O que você pode dizer na hora da prova:
+"Usei a PokéAPI como fonte de dados real. Os dados são consumidos com fetch() e exibidos dinamicamente em cards animados. Cada card mostra nome, imagem e tipo do Pokémon. Isso demonstra o uso de API externa, manipulação de JSON, e criação dinâmica de conteúdo com JavaScript."
+
+💡 Dica bônus (caso o professor questione):
+Se ele perguntar "e se fosse uma API de clima ou futebol?" — você pode dizer:
+
+"A lógica seria a mesma. Só mudaria o link da API e os dados que extraio do JSON. Por exemplo, poderia usar uma API de clima pra mostrar a cidade, temperatura e condição no card."
+
